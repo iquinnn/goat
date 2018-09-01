@@ -1,6 +1,6 @@
 /* global TrelloPowerUp */
 
-var t = TrelloPowerUp.iframe();
+var t = TrelloPowerUp.iframe(<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hdbmpggju3um5bsjhj3mudbbqs%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>);
 
 // want to know when you are being closed?
 window.addEventListener('unload', function(e) {
