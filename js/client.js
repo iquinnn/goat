@@ -322,7 +322,7 @@ TrelloPowerUp.initialize({
       // or we can also have a button that is just a simple url
       // clicking it will open a new tab at the provided url
       icon: WHITE_ICON,
-      text: 'URL',
+      text: 'Add New Task',
       url: 'https://calendar.google.com/calendar/embed?src=hdbmpggju3um5bsjhj3mudbbqs%40group.calendar.google.com&ctz=America%2FLos_Angeles',
       target: 'Edit Calendar' // optional target for above url
     }];
